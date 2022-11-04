@@ -55,7 +55,7 @@ h3 {
 }
 
 .fifth--div{
-    margin-bottom: 1em;
+    margin-bottom: 12em;
 }
 
 .table4{
@@ -70,9 +70,6 @@ h3 {
 
 footer{
     background-color: gray;
-    height: 5em;
+    height: 6.5em;
 }
 
-.container{
-    height: 56em;
-}
